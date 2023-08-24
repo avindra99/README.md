@@ -1,7 +1,7 @@
 Hi My name is Avindra Gorijala 👋
 =================================================
  
-Junior Software Engineer at [Prospect Infosystem Inc.,](https://prospectinfosystem.com/), Graduated university Student, Curious and eager for knowledge
+Software Engineer at [Prospect Infosystem Inc.,](https://prospectinfosystem.com/), Graduated university Student, Curious and eager for knowledge
 ------------------------------------------------------
 
 I pursued my master's from Southeast Missouri State University in the field of Applied Computer Science. At present I'm trying to stay up to date with major technologies relevant to software engineering (mostly backend technologies, Microservices, Cloud Development etc). My current research interests are: Software Design and Architecture, Software Development, Software engineering.
