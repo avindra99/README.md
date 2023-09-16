@@ -14,8 +14,6 @@ I pursued my master's from Southeast Missouri State University in the field of A
       * Java
       * Typescript
       * Javascript
-      * PHP
-      * C#  
     * Backend Development:
        * MongoDB
        * SQL
@@ -30,7 +28,7 @@ I pursued my master's from Southeast Missouri State University in the field of A
     * Android Development:
       *  Java
       *  Android Studio
-* 🤝  I'm open to collaborating on open source software, enterprise applications, Java libraries, mobile applications, backend services etc
+* 🤝  I'm open to collaborating on open-source software, enterprise applications, Java libraries, mobile applications, backend services etc
 * ⚡  My Hobbies include writing software, learning new things, playing chess, exploring the mysteries of the universe (physics enthusiast)
 
 ### Skills
