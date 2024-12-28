@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! 👋</br> 
 </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&center=true&width=830&lines=I'm+Avindra+Gorijala;Software+Engineer+at+Verizon;MS+CS+Grad+SEMO+Alum;Nice+to+meet+you+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&center=true&width=830&lines=I'm+Avindra+Gorijala;Software+Engineer+at+Verizon;MS+CS+Grad+%40+SEMO;Nice+to+meet+you+!" alt="Typing SVG" /></a>
  
 I am a seasoned software engineer with over a decade of experience specializing in designing, developing, and maintaining scalable backend systems and cloud-native applications. I hold a Master’s degree in Applied Computer Science from Southeast Missouri State University, and my professional expertise spans various domains, including backend technologies, microservices, and distributed systems.
 
