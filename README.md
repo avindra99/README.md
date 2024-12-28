@@ -1,16 +1,13 @@
-Hi My name is Avindra Gorijala 👋
-=================================================
+<h1 align="center"> Hi! 👋</br> 
+</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&center=true&width=830&lines=I'm+Avindra+Gorijala;Software+Engineer+at+Verizon;MS+CS+Grad+SEMO+Alum;Nice+to+meet+you+!" alt="Typing SVG" /></a>
  
-Software Engineer at [Verizon](https://www.verizon.com/), Graduated university Student, Curious and eager for knowledge
-------------------------------------------------------
+I am a seasoned software engineer with over a decade of experience specializing in designing, developing, and maintaining scalable backend systems and cloud-native applications. I hold a Master’s degree in Applied Computer Science from Southeast Missouri State University, and my professional expertise spans various domains, including backend technologies, microservices, and distributed systems.
 
-I pursued my master's from Southeast Missouri State University in the field of Applied Computer Science. At present I'm trying to stay up to date with major technologies relevant to software engineering (mostly backend technologies, Microservices, Cloud Development etc). My current research interests are: Software Design and Architecture, Software Development, Software engineering.
-
-* 🌍  I'm based in St Louis, MO, United States of America
-* ✉️  You can contact me at [gorijalaavindra@@gmail.com](mailto:gorijalaavindra@gmail.com)
-* 🚀  I'm currently learning and developing Software Design and Architecture of large scale systems, microservices, distributed systems etc. 
-* 🧠  I'm most familiar with:
-I'm interested in -
+* 🌍  Based in St. Louis, MO, United States of America
+* ✉️  Reach me at [gorijalaavindra@@gmail.com](mailto:gorijalaavindra@gmail.com)
+* 🚀  Actively engaged in architecting and implementing enterprise-grade software solutions, focusing on microservices, cloud development, and DevOps best practices.
+## I'm interested in -
 
 > * Full Stack Development <br>
 > * Data Science <br>
